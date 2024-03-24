@@ -1,15 +1,15 @@
 [
     {
-        "Album": "Thriller",
-        "Artist": "Michael Jackson",
-        "Tracks": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
-        "Year": 1982
+        "Album": "Ye Maaya Chesave",
+        "Artist": "A.R. Rahman",
+        "Tracks": ["Kundanapu Bomma", "Ee hridayam", "Aakasam", "Vintunnava", "Manasaa"],
+        "Year": 2010
     },
     {
-        "Album": "21",
-        "Artist": "Adele",
-        "Tracks": ["Rolling in the Deep", "Rumour Has It", "Turning Tables", "Don't You Remember", "Set Fire to the Rain"],
-        "Year": 2011
+        "Album": "Businessman",
+        "Artist": "Thaman S",
+        "Tracks": ["Sir Osthaara", "Pilla Chao", "Aamchi Mumbai", "Chandamama", "Bye bye"],
+        "Year": 2012
     },
     {
         "Album": "Rockstar",
